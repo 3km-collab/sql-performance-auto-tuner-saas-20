@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/sql-performance-auto-tuner-saas-20/sitemap.xml
